@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Advent Calendar 2023</title>
+    <link rel="stylesheet" href="/style.css">
+  </head>
+  <body>
+    <main id="app">
+      <div id="home-page" class="page">
+        <div class="input-container">
+          <h1>Advent Calendar 2023</h1>
+          <input 
+            type="text" 
+            id="keyword-input" 
+            placeholder="Enter keyword in capital letters"
+            autocomplete="off"
+          >
+        </div>
+      </div>
+      <div id="detail-page" class="page hidden">
+        <div class="detail-container">
+          <div class="calendar-day">
+            <div class="calendar-month">Dec</div>
+            <div class="calendar-number" id="day"></div>
+          </div>
+          <h3 id="organization"></h3>
+          <p id="description"></p>
+          <div id="donation-visual" class="donation-visual">
+            <div class="donation-amount">10 €</div>
+            <div class="donation-label">
+              Donated with <span class="heart-icon">♥</span> in your name
+            </div>
+          </div>
+          <a id="website" target="_blank" rel="noopener noreferrer"></a>
+        </div>
+      </div>
+    </main>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>

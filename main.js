@@ -19,21 +19,28 @@ const organizations = [
 const homePage = document.getElementById('home-page');
 const detailPage = document.getElementById('detail-page');
 const input = document.getElementById('keyword-input');
+const submitBtn = document.getElementById('submit-btn');
+
+function checkKeyword() {
+    const value = input.value.trim().toUpperCase();
+    const organization = organizations.find(org => org.Keyword === value);
+    
+    if (organization) {
+        showDetailPage(organization);
+        input.value = '';
+    } else {
+        input.classList.add('error');
+        setTimeout(() => input.classList.remove('error'), 500);
+    }
+}
 
 input.addEventListener('keypress', (e) => {
     if (e.key === 'Enter') {
-        const value = input.value.trim().toUpperCase();
-        const organization = organizations.find(org => org.Keyword === value);
-        
-        if (organization) {
-            showDetailPage(organization);
-            input.value = '';
-        } else {
-            input.classList.add('error');
-            setTimeout(() => input.classList.remove('error'), 500);
-        }
+        checkKeyword();
     }
 });
+
+submitBtn.addEventListener('click', checkKeyword);
 
 function showDetailPage(organization) {
     document.getElementById('day').textContent = organization.Tag;

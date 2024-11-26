@@ -39,8 +39,14 @@ h1 {
   font-size: 2rem;
 }
 
-input {
+.input-wrapper {
+  display: flex;
+  gap: 10px;
   width: 100%;
+}
+
+input {
+  flex: 1;
   padding: 1rem;
   font-size: 1.2rem;
   border: none;
@@ -59,6 +65,26 @@ input:focus {
 input.error {
   animation: shake 0.5s;
   background-color: rgba(255, 200, 200, 0.9);
+}
+
+.submit-btn {
+  padding: 1rem 1.5rem;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 8px;
+  background: #ffd700;
+  color: #333;
+  cursor: pointer;
+  transition: transform 0.2s, background-color 0.2s;
+}
+
+.submit-btn:hover {
+  background: #ffed4a;
+  transform: translateY(-2px);
+}
+
+.submit-btn:active {
+  transform: translateY(0);
 }
 
 @keyframes shake {

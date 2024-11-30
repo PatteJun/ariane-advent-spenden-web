@@ -205,13 +205,14 @@ input.error {
 }
 
 .personal-message p {
-  font-family: 'Comic Sans MS', cursive;
-  font-size: 1.2rem;
+  font-family: 'Segoe Print', 'Bradley Hand', 'Marker Felt', 'Arial', sans-serif;
+  font-size: 1.1rem;
   color: #333;
   margin: 0;
   padding: 0 0.5rem;
   text-align: left;
   text-shadow: none;
+  letter-spacing: 0.5px;
 }
 
 .heart-icon {

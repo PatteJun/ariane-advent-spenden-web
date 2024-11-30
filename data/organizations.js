@@ -53,7 +53,7 @@ export const organizations = [
         "Name": "Animal Rescue Algarve (ARA)",
         "Beschreibung": "Rettet und rehabilitiert verlassene und misshandelte Tiere in der Algarve, Portugal.",
         "Webseite": "animalrescuealgarve.com",
-        "Nachricht": "Stark wie ein Löwe - das bist Du! 🦁"
+        "Nachricht": "Ich mochte den Anblick immer sehr, wenn er da quasi fast stehend auf Deinem Bauch geschlafen hat."
     },
     {
         "Tag": "3",

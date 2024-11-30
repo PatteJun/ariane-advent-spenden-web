@@ -69,7 +69,7 @@ export const organizations = [
         "Name": "Dogs of Portugal",
         "Beschreibung": "Vermittelt Hunde aus einem Tierheim in Portugal nach Deutschland.",
         "Webseite": "dogsofportugal.de",
-        "Nachricht": "Für unseren Rudi und alle anderen Hunde, die noch ein Zuhause suchen. 🐕"
+        "Nachricht": "Leider haben wir dieses Jahr noch keinen Rudi gefunden, in Portugal. Aber dafür haben Ziegen ne ziemlich große Rolle gespielt. Rudi passt aber zur Spende des Tages."
     },
     {
         "Tag": "4",

@@ -60,7 +60,8 @@ const organizations = [
         "Keyword": "RUDI",
         "Name": "Dogs of Portugal",
         "Beschreibung": "Vermittelt Hunde aus einem Tierheim in Portugal nach Deutschland.",
-        "Webseite": "dogsofportugal.de"
+        "Webseite": "dogsofportugal.de",
+        "Nachricht": "Zwar keine Ziege..."
     },
     {
         "Tag": "4",

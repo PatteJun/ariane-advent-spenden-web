@@ -101,7 +101,7 @@ input.error {
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  margin: 0 auto 1.5rem;
+  margin: 0 auto 1rem;
 }
 
 .calendar-month {
@@ -173,6 +173,45 @@ input.error {
 .donation-label {
   font-size: 1.1rem;
   color: rgba(255, 255, 255, 0.9);
+}
+
+.personal-message {
+  margin: 1.5rem auto 2rem;
+  padding: 1.5rem;
+  background: #fff;
+  border-radius: 3px;
+  max-width: 400px;
+  position: relative;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transform: rotate(-1deg);
+  background-image: 
+    linear-gradient(#fff 1.1rem, #ccc 1.2rem),
+    linear-gradient(90deg, rgba(255,0,0,0.2) 1px, transparent 0);
+  background-size: 100% 1.2rem, 1rem 100%;
+  line-height: 1.2rem;
+  padding-top: 1.3rem;
+}
+
+.personal-message::before {
+  content: '';
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%) rotate(5deg);
+  width: 40px;
+  height: 40px;
+  background: rgba(255, 235, 59, 0.5);
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+
+.personal-message p {
+  font-family: 'Comic Sans MS', cursive;
+  font-size: 1.2rem;
+  color: #333;
+  margin: 0;
+  padding: 0 0.5rem;
+  text-align: left;
+  text-shadow: none;
 }
 
 .heart-icon {

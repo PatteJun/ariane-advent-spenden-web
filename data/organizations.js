@@ -53,7 +53,7 @@ export const organizations = [
         "Name": "Animal Rescue Algarve (ARA)",
         "Beschreibung": "Rettet und rehabilitiert verlassene und misshandelte Tiere in der Algarve, Portugal.",
         "Webseite": "animalrescuealgarve.com",
-        "Nachricht": "Ich mochte den Anblick immer sehr, wenn er da quasi fast stehend auf Deinem Bauch geschlafen hat."
+        "Nachricht": "Ich mochte den Anblick immer sehr, wenn er da quasi fast stehend auf Deinem Bauch geschlafen hat und seinen Popo rausgestreckt hat 😅."
     },
     {
         "Tag": "3",
@@ -61,7 +61,7 @@ export const organizations = [
         "Name": "Tierrettung Portugal e.V.",
         "Beschreibung": "Vermittelt Hunde aus Tötungsstationen und Tierheimen in Portugal.",
         "Webseite": "tierrettung-portugal.de",
-        "Nachricht": "Coffee & Du - die beste Gang der Welt! ☕"
+        "Nachricht": "Natürlich war das nicht bei CoffeeGang, aber wir waren das erste Mal als Gang unterwegs am Kaffeebüdchen. Krasses Gefühl damals!"
     },
     {
         "Tag": "1",
@@ -77,7 +77,7 @@ export const organizations = [
         "Name": "Tierschutz mit Herz e.V.",
         "Beschreibung": "Gemeinnütziger Verein im Raum Köln/Hennef, der Hunde zur Adoption vermittelt.",
         "Webseite": "tierschutzmitherz.de",
-        "Nachricht": "Mit Dir am Strand - das pure Glück! 🏖️"
+        "Nachricht": "Am Selliner Strand hat Löwi zum ersten Mal die Füßchen in den Sand gesteckt bekommen. Und Du warst sehr happy damit, wie man sieht."
     },
     {
         "Tag": "15",

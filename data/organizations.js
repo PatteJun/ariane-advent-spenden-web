@@ -29,7 +29,7 @@ export const organizations = [
         "Name": "OASE Benedikt Labre e.V.",
         "Beschreibung": "Bietet seit über 30 Jahren Beratung und Hilfe für Wohnungslose in Köln.",
         "Webseite": "oase-koeln.de",
-        "Nachricht": "Meine kleine Wasserratte, Du liebst das Meer - leider haben nicht alle Menschen Zugang zu sauberem Wasser."
+        "Nachricht": "Er liebt das Wasser! :)"
     },
     {
         "Tag": "20",
@@ -101,7 +101,7 @@ export const organizations = [
         "Name": "Afghanischer Frauenverein e. V.",
         "Beschreibung": "Unterstützt Frauen und Kinder in Afghanistan durch Bildungs-, Gesundheits- und Infrastrukturprojekte.",
         "Webseite": "afghanischer-frauenverein.de",
-        "Nachricht": "Familie Schmidt - zusammen unschlagbar! 👨‍👩‍👦‍👦"
+        "Nachricht": "Das war doch eigentlich auch ganz schön, dass alle Schmidtschen Ladies da waren und Leo begrüßt haben."
     },
     {
         "Tag": "24",
@@ -165,7 +165,7 @@ export const organizations = [
         "Name": "Kältebus München e.V.",
         "Beschreibung": "Hilft obdachlosen Menschen in München bei eisigen Temperaturen mit warmen Getränken, Decken und Übernachtungsmöglichkeiten.",
         "Webseite": "kaeltebus-muenchen.de",
-        "Nachricht": "Ice Ice Baby - unser Song! 🎵"
+        "Nachricht": "Lustig, dass wir das noch gemacht haben vor Leos Geburt. Und beim nächsten Mal ist der kleine Tiger schon auf dem Schlitten mit dabei."
     },
     {
         "Tag": "19",
@@ -181,7 +181,7 @@ export const organizations = [
         "Name": "Elisabethstift",
         "Beschreibung": "Bietet Betreuung, Bildung und Schutz für Kinder und Jugendliche in Notlagen, insbesondere in Berlin und Brandenburg.",
         "Webseite": "elisabethstift-berlin.de",
-        "Nachricht": "Für meinen Mausebär - ich liebe Dich! 🐻"
+        "Nachricht": "Tatsächlich waren wir dieses Jahr auch schon als Hai und Känguru mit Mausebär im Bauch unterwegs."
     },
     {
         "Tag": "17",

@@ -29,7 +29,7 @@ export const organizations = [
         "Name": "OASE Benedikt Labre e.V.",
         "Beschreibung": "Bietet seit über 30 Jahren Beratung und Hilfe für Wohnungslose in Köln.",
         "Webseite": "oase-koeln.de",
-        "Nachricht": "Er liebt das Wasser! :)"
+        "Nachricht": "Seit ein paar Wochen kann man wirklich vom Planschen sprechen. Wie cool dabei zu sein! Freue mich schon ihm Ernie und sein Boot präsentieren zu können."
     },
     {
         "Tag": "20",
@@ -125,7 +125,7 @@ export const organizations = [
         "Name": "Bergwaldprojekt e.V.",
         "Beschreibung": "Engagiert sich für den Schutz und Erhalt der Wälder in Deutschland und bietet Freiwilligenprojekte zur Aufforstung und Waldpflege.",
         "Webseite": "bergwaldprojekt.de",
-        "Nachricht": "5 Sterne für die beste Ehefrau! ⭐⭐⭐⭐⭐"
+        "Nachricht": "Plötzlich schlief der Kerl total gut zwischen uns! Schöner Start in unser erstes Portugal Abenteuer zu dritt."
     },
     {
         "Tag": "21",

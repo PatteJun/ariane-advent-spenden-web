@@ -5,7 +5,7 @@ export const organizations = [
         "Name": "Straßenwächter e.V.",
         "Beschreibung": "Engagiert sich seit 2005 für Obdachlose in Köln durch tägliche Touren mit Versorgung und Unterstützung.",
         "Webseite": "strassenwaechter.de",
-        "Nachricht": "Mama, Du hast mir beigebracht, dass man Menschen in Not immer helfen sollte. ❤️"
+        "Nachricht": "Guck Dir das Bild nochmal an! Du siehst natürlich anders aus als noch vor ein paar Jahren oder vielleicht auch noch vor ein paar Monaten. Aber ich finde Du bist eine unfassbar schöne Mama!"
     },
     {
         "Tag": "10",
@@ -93,7 +93,7 @@ export const organizations = [
         "Name": "EBM International",
         "Beschreibung": "Bietet Schutz und Heimat für verwahrloste, verlassene und missbrauchte Kinder, die ohne Hilfe chancenlos wären.",
         "Webseite": "ebm-international.org/de/",
-        "Nachricht": "Mit Dir zu tanzen ist das Beste! 🎉"
+        "Nachricht": "Schon ganz schön viele Geburtstagsfeten hinter sich der kleine Kerl. Und allgemein ganz schön rumgekommen."
     },
     {
         "Tag": "7",
@@ -157,7 +157,7 @@ export const organizations = [
         "Name": "CaFée mit Herz e.V.",
         "Beschreibung": "Ein Tageszentrum in Hamburg, das Obdachlosen und Bedürftigen warme Mahlzeiten, Kleidung und medizinische Hilfe bietet.",
         "Webseite": "cafeemitherz.de",
-        "Nachricht": "Mein kleiner Grobi, Du verzauberst jeden Tag! 💫"
+        "Nachricht": "Grobi wollte sich auch mal in einem Türchen zeigen. Und ich finde er hat es verdient. Zaubert uns doch immer wieder allen dreien ein Lächeln ins Gesicht."
     },
     {
         "Tag": "6",

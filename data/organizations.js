@@ -85,7 +85,7 @@ export const organizations = [
         "Name": "Kinderheim Kleine Strolche e.V.",
         "Beschreibung": "Freier Träger der Kinder- und Jugendhilfe mit mehreren Standorten in Niedersachsen, spezialisiert auf die Inobhutnahme von Säuglingen und Kleinkindern.",
         "Webseite": "kinderheim-kleine-strolche.de",
-        "Nachricht": "Unsere Boys sind unser größtes Glück! 👶👶"
+        "Nachricht": "Deine Boys! ❤️❤️"
     },
     {
         "Tag": "12",

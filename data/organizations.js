@@ -21,7 +21,7 @@ export const organizations = [
         "Name": "Helping Hands Cologne e.V.",
         "Beschreibung": "Seit 2014 aktiv in der Unterstützung von Obdachlosen und Bedürftigen in Köln.",
         "Webseite": "hhc-obdachlosenhilfe.koeln",
-        "Nachricht": "Wir sind das beste Team! 💑"
+        "Nachricht": "Was für ein krasser Moment! Vielleicht der krasseste Moment unseres Lebens. Leo ist da und alles steht auf dem Kopf."
     },
     {
         "Tag": "8",
